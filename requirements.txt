@@ -1,4 +1,5 @@
 python-telegram-bot
 pandas
+openpyxl
 openai
 python-dotenv
