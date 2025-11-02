@@ -1,5 +1,0 @@
-python-telegram-bot
-pandas
-openai
-python-dotenv
-```
